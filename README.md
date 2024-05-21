@@ -8,9 +8,9 @@
 # RN Regra de Negócio
 
 - [x] A transação pode ser do tipo crédito que somará ao valor total, ou débito subtrairá;
-- [ ] Deve ser possível identificar o usuário entre as requisições;
-- [ ] O usuário só pode visializar transações a qual ele criou;
+- [] Deve ser possível identificar o usuário entre as requisições;
+- [] O usuário só pode visializar transações a qual ele criou;
 
 # RNF Requisitos Não Funcionais
 
-- [ ]
+- []
